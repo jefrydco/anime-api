@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "lib": ["ES2019"]
+  },
+  "include": [
+    "api/**/*.ts",
+    "cli/**/*.ts",
+    "constant/**/*.ts",
+    "modules/**/*.ts",
+    "types/**/*.ts",
+    "utils/**/*.ts",
+    ".eslintrc.js",
+    "prettier.config.js"
+  ]
+}
